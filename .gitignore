@@ -1,0 +1,20 @@
+# Gradle files
+.gradle/
+/build/
+
+# Android Studio
+.idea/
+*.iml
+*.hprof
+.cxx/
+.externalNativeBuild/
+
+# Signings
+*.jks
+*.keystore
+
+# Others
+.DS_Store
+*.log
+crashlytics-build.properties
+ 
